@@ -1,4 +1,2 @@
 # WIDS-ESP32
-Wi-Fi Intrusion Detection System that detects common Wi-Fi attacks using ESP32 Dev Module.
-
-Has a web dashboard at 192.168.4.1 when connected to ESP32-IDS Wi-Fi showcasing the alerts.
+An ESP32-based Wireless Intrusion Detection System (WIDS) that identifies common WiFi attacks in real-time. The system hosts a web dashboard accessible at http://192.168.4.1 after connecting to the ESP32-IDS access point, providing live attack alerts and traffic visualization.
