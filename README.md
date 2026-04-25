@@ -34,4 +34,4 @@ The ESP32 operates in **promiscuous mode**, which allows it to capture all 802.1
 | Authentication | Device proving identity to join network | Rapid succession indicates auth attack |
 
 # DISCLAIMER
-This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited. I am not responsible for any consequences arising from the use of the tool, which is done at your own risk.
+This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited.
